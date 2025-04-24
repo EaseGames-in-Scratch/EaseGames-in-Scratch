@@ -28,15 +28,17 @@ EaseGames contains © Copyright information. © Copyright information should not
 To prevent anyone (including you) from accessing © Copyright information, we can;
 <p>1. Avoid remixing<br>2. Do not share the game directly on Scratch link. Prefer sending the GitHub link instead.<br>3. Do not open "See inside" to edit or download the game. If you want to download, prefer using the steps on section <a href="README.md#how-to-play-a-game-without-internet">"How to Play a Game Without Internet?"</a> instead</p>
 <h3>Credits</h3>
-<p>Apologies,<br>EaseGames is a just a new gaming software and not yet a modern "Scratcher". If EaseGames is became a modern "Scratcher, you will see the credits here.</p>
+<p>Apologies,<br>EaseGames is a just a new gaming software and <strong>not yet a modern "Scratcher". If EaseGames is became a modern "Scratcher, you will see the credits here.</p>
 <h3>Possible Questions about EaseGames in Scratch</h3>
 <h4>How was EaseGames made?</h4>
-<p>EaseGames uses Scratch to make perfect games for you. It's still developing, although, not enough games to play. Well, still, do not leave us! Because in the future, EaseGames has grown to a bigger EaseGames.</p>
+<p>EaseGames <strong>uses Scratch to make perfect games</strong> for you. It's still developing, although, not enough games to play. Well, still, do not leave us! Because in the future, EaseGames has grown to a bigger EaseGames.</p>
 <h4>Why does EaseGames contain a few of games yet?</h4>
-<p>EaseGames is a newly created gaming software in Scratch, as you can see in the profile page, EaseGames is still a new "Scratcher".</p>
+<p>EaseGames is a <strong>newly created gaming software in Scratch</strong>, as you can see in the profile page, EaseGames is still a new "Scratcher".</p>
 <h4>When was the creation of EaseGames?</h4>
-<p>EaseGames was created on April 24, 2025. It's very new, isn't it?</p>
+<p>EaseGames was created on <strong>April 24, 2025</strong>. It's very new, isn't it?</p>
 <h4>How does EaseGames know how many people tried our games?</h4>
-<p>Continue supporting and playing our games, we would know how many people tried our game.</p>
+<p><strong>Continue supporting and playing our games</strong>, we would know how many people tried our game.</p>
 <h4>How can EaseGames develop into bigger EaseGames?</h4>
 <p>When users support EaseGames, they will help us in growing our EaseGames software.</p>
+<h2>Thanks!</h2>
+<p>Thank you, because with <strong>no EaseGames</strong>, <strong>no new games</strong> in the future</p>
