@@ -10,8 +10,9 @@
 Click the link <a href="https://scratch.mit.edu/users/EaseGames/">here</a>, then find any game you want to play.
 <br><br>
 <h2>How to use offline?</h2>
-<p>1. Open a game from EaseGames</p>
-<p>2. Click "See inside"</p>
-<p>3. Click "File", then select "Save to your computer"</p>
-<p>4. Download Scratch Offline Editor below</p>
-<p>5. Open the Scratch file to Scratch Offline Editor</p>
+<p class="indent">1. Open a game from EaseGames
+<br>2. Click "See inside"
+<br>3. Click "File", then select "Save to your computer"
+<br>4. Download Scratch Offline Editor below
+<br>5. Open the Scratch file to Scratch Offline Editor
+</p>
