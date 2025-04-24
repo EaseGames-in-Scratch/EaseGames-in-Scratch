@@ -1,2 +1,2 @@
-# EaseGames-in-Scratch
+EaseGames-in-Scratch
 EaseGames introduces games in Scratch.
