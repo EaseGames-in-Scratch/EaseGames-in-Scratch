@@ -1,0 +1,41 @@
+<h1>EaseGames in Scratch</h1>
+<br>
+<h2>Introduction</h2>
+<p>EaseGames introduces new games made with Scratch. You can play them whenever you want. Finish reading this to go on to the user's link.</p>
+
+<h2>Purpose</h2>
+<p>We want you to play our games and they are so fun. We will still develop EaseGames to have more fun.</p>
+
+<h3>How to Play with EaseGames?</h3>
+Click <a href="https://scratch.mit.edu/users/EaseGames/">EaseGames</a>, then find any game you want to play.
+Playing EaseGames's games are much preffered when you're signed in and using computer. We don't take any user data for bad purposes.
+
+<h3>How to Play a Game Without Internet?</h3>
+<p>1. Download Scratch Offline Editor below
+<br>2. Open <a href="">Offline Gaming</a>
+<br>3. Download one of the following games you prefer to play.
+<p">Note: Remember, they are still under improvement. So keep updated with new updates.</p>
+<p>4. Use Scratch Offline Editor to view the games.
+<p>Your progress is finished. Now play anytime.</p>
+<p>To know how it's done by video, <a href="">watch here</a>
+</p>
+
+<h2>About</h2>
+<h3>© Copyright</h3>
+EaseGames contains © Copyright information. © Copyright information should not be modified or done. The following are;
+<p>1. Remixing<br>2. Viewing secret records<br>3. Deleting or changing blocks (purposes) of any game</p>
+To prevent anyone (including you) from accessing © Copyright information, we can;
+<p>1. Avoid remixing<br>2. Do not share the game directly on Scratch link. Prefer sending the GitHub link instead.<br>3. Do not open "See inside" to edit or download the game. If you want to download, prefer using the steps above on section "How to Play a Game Without Internet?"</p>
+<h3>Credits</h3>
+<p>Apologies,<br>EaseGames is a just a new gaming software and not yet a modern "Scratcher". If EaseGames is became a modern "Scratcher, you will see the credits here.</p>
+<h3>Possible Questions about EaseGames in Scratch</h3>
+<h4>How was EaseGames made?</h4>
+<p>EaseGames uses Scratch to make perfect games for you. It's still developing, although, not enough games to play. Well, still, do not leave us! Because in the future, EaseGames has grown to a bigger EaseGames.</p>
+<h4>Why does EaseGames contain a few of games yet?</h4>
+<p>EaseGames is a newly created gaming software in Scratch, as you can see in the profile page, EaseGames is still a new "Scratcher".</p>
+<h4>When was the creation of EaseGames?</h4>
+<p>EaseGames was created on April 24, 2025. It's very new, isn't it?</p>
+<h4>How does EaseGames know how many people tried our games?</h4>
+<p>Continue supporting and playing our games, we would know how many people tried our game.</p>
+<h4>How can EaseGames develop into bigger EaseGames?</h4>
+<p>When users support EaseGames, they will help us in growing our EaseGames software.</p>
