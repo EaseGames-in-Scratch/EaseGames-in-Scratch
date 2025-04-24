@@ -12,11 +12,12 @@ Playing EaseGames's games are much preffered when you're signed in and using com
 
 <h3>How to Play a Game Without Internet?</h3>
 <p>1. Download Scratch Offline Editor
-<br>2. Open <a href="https://github.com/otilla10xavi/EaseGames-in-Scratch/tree/main/Offline%20Gaming">Offline Gaming</a>
+<br>2. Open <a href="Offline Gaming">Offline Gaming</a>
 <br>3. Click the "View Raw" button.
-  <br> <img src="https://github.com/otilla10xavi/EaseGames-in-Scratch/blob/main/GUIDE/raw.png">
+  <br> <img src="GUIDE/download.png">
 <p">Note: Remember, they are still under improvement. So keep updated with new updates.</p>
 <p>4. Use Scratch Offline Editor to view the games.
+  <br> <img src="GUIDE/raw.png">
 <p>Your progress is finished. Now play anytime.</p>
 
 <h2>About</h2>
@@ -24,7 +25,7 @@ Playing EaseGames's games are much preffered when you're signed in and using com
 EaseGames contains © Copyright information. © Copyright information should not be modified or done. The following are;
 <p>1. Remixing<br>2. Viewing secret records<br>3. Deleting or changing blocks (purposes) of any game</p>
 To prevent anyone (including you) from accessing © Copyright information, we can;
-<p>1. Avoid remixing<br>2. Do not share the game directly on Scratch link. Prefer sending the GitHub link instead.<br>3. Do not open "See inside" to edit or download the game. If you want to download, prefer using the steps above on section "How to Play a Game Without Internet?"</p>
+<p>1. Avoid remixing<br>2. Do not share the game directly on Scratch link. Prefer sending the GitHub link instead.<br>3. Do not open "See inside" to edit or download the game. If you want to download, prefer using the steps above on section <a href="README.md/How to Play a Game Without Internet?">"How to Play a Game Without Internet?"</a></p>
 <h3>Credits</h3>
 <p>Apologies,<br>EaseGames is a just a new gaming software and not yet a modern "Scratcher". If EaseGames is became a modern "Scratcher, you will see the credits here.</p>
 <h3>Possible Questions about EaseGames in Scratch</h3>
