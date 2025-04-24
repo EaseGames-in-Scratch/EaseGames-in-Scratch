@@ -14,6 +14,7 @@ Playing EaseGames's games are much preffered when you're signed in and using com
 <p>1. <a href="https://scratch.mit.edu/download">Download Scratch Offline Editor</a>
 <br>2. Open <a href="Offline Gaming">Offline Gaming</a>
 <br>3. Choose any preffered game you want to download
+  <br><img src="GUIDE/offline.png">
 <br>3. Click the "View Raw" button.
   <br> <img src="GUIDE/raw.png">
 <p">Note: Remember, they are still under improvement. So keep updated with new updates.</p>
