@@ -11,8 +11,9 @@ Click <a href="https://scratch.mit.edu/users/EaseGames/">EaseGames</a>, then fin
 Playing EaseGames's games are much preffered when you're signed in and using computer. We don't take any user data for bad purposes.
 
 <h3>How to Play a Game Without Internet?</h3>
-<p>1. Download Scratch Offline Editor
+<p>1. <a href="https://scratch.mit.edu/download">Download Scratch Offline Editor</a>
 <br>2. Open <a href="Offline Gaming">Offline Gaming</a>
+<br>3. Choose any preffered game you want to download
 <br>3. Click the "View Raw" button.
   <br> <img src="GUIDE/raw.png">
 <p">Note: Remember, they are still under improvement. So keep updated with new updates.</p>
