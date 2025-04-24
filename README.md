@@ -14,10 +14,10 @@ Playing EaseGames's games are much preffered when you're signed in and using com
 <p>1. Download Scratch Offline Editor
 <br>2. Open <a href="Offline Gaming">Offline Gaming</a>
 <br>3. Click the "View Raw" button.
-  <br> <img src="GUIDE/download.png">
+  <br> <img src="GUIDE/raw.png">
 <p">Note: Remember, they are still under improvement. So keep updated with new updates.</p>
 <p>4. Use Scratch Offline Editor to view the games.
-  <br> <img src="GUIDE/raw.png">
+  <br> <img src="GUIDE/download.png">
 <p>Your progress is finished. Now play anytime.</p>
 
 <h2>About</h2>
