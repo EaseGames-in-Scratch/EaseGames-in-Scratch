@@ -29,7 +29,7 @@ EaseGames contains © Copyright information. © Copyright information should not
 To prevent anyone (including you) from accessing © Copyright information, we can;
 <p>1. Avoid remixing<br>2. Do not share the game directly on Scratch link. Prefer sending the GitHub link instead.<br>3. Do not open "See inside" to edit or download the game. If you want to download, prefer using the steps on section <a href="https://github.com/otilla10xavi/EaseGames-in-Scratch?tab=readme-ov-file#how-to-play-a-game-without-internet">"How to Play a Game Without Internet?"</a> instead</p>
 <h3>Credits</h3>
-<p>Apologies,<br>EaseGames is a just a new gaming software and <strong>not yet a modern "Scratcher". If EaseGames is became a modern "Scratcher, you will see the credits here.</p>
+<p>Apologies,<br>EaseGames is a just a new gaming software and <strong>not yet a modern "Scratcher". If EaseGames became a modern "Scratcher", you will see the credits here.</p>
 <h3>Possible Questions about EaseGames in Scratch</h3>
 <h4>How was EaseGames made?</h4>
 <p>EaseGames <strong>uses Scratch to make perfect games</strong> for you. It's still developing, although, not enough games to play. Well, still, do not leave us! Because in the future, EaseGames has grown to a bigger EaseGames.</p>
