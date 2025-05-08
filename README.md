@@ -38,7 +38,7 @@ To prevent anyone (including you) from accessing © Copyright information, we ca
 <h4>How can EaseGames develop into bigger EaseGames?</h4>
 <p>When users support EaseGames, they will help us in growing our EaseGames software.</p>
 <h2>Thanks!</h2>
-<p>Thank you, because with <strong>no EaseGames</strong>, <strong>no new games</strong> in the future</p>
+<p>Thank you, because with <strong>no EaseGames</strong>, <strong>no new games</strong> in the future. If you have more requests, go to disscusions.</p>
 <br><br>More about the page
 <br><a href="scratch.mit.edu/users/EaseGames">Support us</a>
 <br><a href="scratch.mit.edu/projects/1165470989">The First Game Ever in EaseGames</a>
