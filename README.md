@@ -41,5 +41,5 @@ To prevent anyone (including you) from accessing © Copyright information, we ca
 <p>Thank you, because with <strong>no EaseGames</strong>, <strong>no new games</strong> in the future. If you have more requests, go to disscusions.</p>
 <br><br>More about the page
 <br><a href="scratch.mit.edu/users/EaseGames">Support us</a>
-<br><a href="scratch.mit.edu/projects/1165470989">The First Game Ever in EaseGames</a>
-<br><a href="scratch.mit.edu/projects/1165470989">Latest Game</a>
+<br><a href="https://scratch.mit.edu/projects/1165470989">The First Game Ever in EaseGames</a>
+<br><a href="https://scratch.mit.edu/projects/1165470989">Latest Game</a>
